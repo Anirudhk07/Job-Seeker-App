@@ -2,6 +2,10 @@
 
 Job Seeker App to find the best suitable job for you !
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Anirudhk07/Job-Seeker-App?color=Green)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Anirudhk07/Job-Seeker-App/master?color=blue&logo=Github)
+![GitHub language count](https://img.shields.io/github/languages/count/Anirudhk07/Job-Seeker-App?color=orange)
+
 # App Features
 
 > Job Search Categories
