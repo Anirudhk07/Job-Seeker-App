@@ -18,7 +18,7 @@ Job Seeker App to find the best suitable job for you !
 
 ---
 
-![ezgif com-resize (1)](https://user-images.githubusercontent.com/46351318/84188093-a9ebf280-aab0-11ea-9e01-f1f73f70a002.gif)
+![ezgif com-resize (2)](https://user-images.githubusercontent.com/46351318/84188341-1109a700-aab1-11ea-87ec-3b3fcd321c5c.gif)
 
 ---
 
