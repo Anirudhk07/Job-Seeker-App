@@ -1,19 +1,28 @@
-# globant_flutter_ninja
+# Job Seeker App
 
-It is a Job Finder App based on #Hack19 theme developed in Flutter.
-The app targets -
-1. A minimalistic UI design
-2. It uses Firebase as Database
-3. AR is integrated to get city wise statistics of job data
-## Getting Started
+Job Seeker App to find the best suitable job for you !
 
-This project is a starting point for a Flutter application.
+# App Features
 
-A few resources to get you started if this is your first Flutter project:
+> Job Search Categories
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+> Build your Profile 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> Recommended Job
+
+> Track your applications
+
+> AR is integrated to get city wise statistics of job data
+
+> Featured / Treding Jobs in your domain
+
+---
+
+---
+
+
+## Support 
+
+If you have any questions or suggestions reach out to me 
+
+- email at <a href="http://fvcproductions.com" target="_blank">`anirudhkolwadkar07@gmail.com`</a>
