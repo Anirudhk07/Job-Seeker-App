@@ -17,9 +17,9 @@ Job Seeker App to find the best suitable job for you !
 > Featured / Treding Jobs in your domain
 
 ---
-<p align="center">
+
 ![ezgif com-resize (1)](https://user-images.githubusercontent.com/46351318/84188093-a9ebf280-aab0-11ea-9e01-f1f73f70a002.gif)
-</p>
+
 ---
 
 
