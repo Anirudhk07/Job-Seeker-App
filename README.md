@@ -20,9 +20,11 @@ Job Seeker App to find the best suitable job for you !
 
 > Featured / Treding Jobs in your domain
 
+> Minimalistic UI
+
 ---
 
-![ezgif com-resize (2)](https://user-images.githubusercontent.com/46351318/84188341-1109a700-aab1-11ea-87ec-3b3fcd321c5c.gif)
+![final_5ee0b49cb4182a0015f993b7_966639](https://user-images.githubusercontent.com/46351318/84257355-d7798000-ab32-11ea-866e-a5d02c10b1fd.gif)
 
 ---
 
